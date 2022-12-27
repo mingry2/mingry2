@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=mingyeong&fontSize=90)
 <div align="center">
 	<h1> ⚒ Tech Stack ⚒ </h1>
 </div>
@@ -16,8 +17,6 @@
 	<h1> ✨ mingyeong ✨ </h1>
 <div align="center">
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white" /><br>
+	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minry20415&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=minry20415&show_icons=true">
