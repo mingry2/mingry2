@@ -3,12 +3,15 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,2,3&height=150&section=header&text=welcom!&fontSize=80&animation=twinkling)
     <br>
     <br>
-    
   
   # 📋 My Github
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingry2&show_icons=true&theme=vue)    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingry2&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingry2&layout=compact">    
+  
+  <h3> 🐤 I'm an early 🐤 </h3>
+  
+  ![커밋시간통계](https://user-images.githubusercontent.com/101258329/226178982-a84c2ad6-8d11-4ebd-91eb-677a9a66d940.png)    
     <br>
     <br>
     
