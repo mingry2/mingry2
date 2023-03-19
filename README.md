@@ -3,15 +3,24 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,2,3&height=150&section=header&text=welcom!&fontSize=80&animation=twinkling)
     <br>
     <br>
+    
+  
+  # 📋 My Github
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingry2&show_icons=true&theme=vue)    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingry2&layout=compact">
+    <br>
+    <br>
+    
   
   # 💪 It's me!    
   
   <a href="https://gitlab.com/minry20415" target="_blank"><img src="https://img.shields.io/badge/GitLab-57BCAD?style=for-the-badge&logo=GitLab&logoColor=white"/></a>    
   <a href="https://min-gyeong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-57BCAD?style=for-the-badge&logo=Tistory&logoColor=white"/></a>    
   <a href="minry20415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minry20415@gmail.com-57BCAD?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <br>
-  <br>
-  <br>
+    <br>
+    <br>
+    
   
   # 📚 Tech Stack
   <h3>Back-end</h3>
@@ -34,18 +43,8 @@
   <h3>Tool</h3>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
-  
-  <br>
-  <br>
-  <br>
-  
-  
-  # 📋 Stats
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingry2&show_icons=true&theme=radical)
-  
-  # 📋 Lanauages
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingry2&layout=compact"><br><br>
+    <br>
+    <br>
+    
   
 </div>
