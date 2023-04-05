@@ -3,6 +3,16 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,2,3&height=150&section=header&text=welcom!&fontSize=80&animation=twinkling)
     <br>
     <br>
+      
+  
+  # 💪 It's me!    
+  
+  <a href="https://gitlab.com/minry20415" target="_blank"><img src="https://img.shields.io/badge/GitLab-57BCAD?style=for-the-badge&logo=GitLab&logoColor=white"/></a>    
+  <a href="https://min-gyeong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-57BCAD?style=for-the-badge&logo=Tistory&logoColor=white"/></a>    
+  <a href="minry20415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minry20415@gmail.com-57BCAD?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <br>
+    <br>
+  
    
   # 📋 My Github
   
@@ -14,15 +24,7 @@
   ![커밋시간통계](https://user-images.githubusercontent.com/101258329/226178982-a84c2ad6-8d11-4ebd-91eb-677a9a66d940.png)    
     <br>
     <br>
-    
-  
-  # 💪 It's me!    
-  
-  <a href="https://gitlab.com/minry20415" target="_blank"><img src="https://img.shields.io/badge/GitLab-57BCAD?style=for-the-badge&logo=GitLab&logoColor=white"/></a>    
-  <a href="https://min-gyeong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-57BCAD?style=for-the-badge&logo=Tistory&logoColor=white"/></a>    
-  <a href="minry20415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minry20415@gmail.com-57BCAD?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-    <br>
-    <br>
+
     
   
   # 📚 Tech Stack
