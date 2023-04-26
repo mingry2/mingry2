@@ -11,13 +11,26 @@
 
 <a href="https://gitlab.com/minry20415" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/></a>    
 <a href="https://min-gyeong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>    
-<a href="minry20415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minry20415@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <br>
-  <br>
-  <br>
-  <br>
-  
+<a href="minry20415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minry20415@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>    
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=min-gyeong&postId=default&theme=vue)](https://min-gyeong.tistory.com/)
 
+</div>
+
+## Education
+### 🔔 2022.09.19 ~ 2023.02.17 멋쟁이사자처럼 백엔드 스쿨 2기 - **우수 수료생 선정**
+- [개인프로젝트1 : 전국 병/의원 찾기](https://github.com/mingry2/hospital-information-api)
+- [개인프로젝트2 : Mustsa SNA](https://github.com/mingry2/MustsaSNS-API)
+- [팀프로젝트 : 댕냥뽀짝](https://github.com/mingry2/daengnyang-daily)
+### 🔔 2023.02.18 ~ 진행중    
+- [CS스터디](https://github.com/daengnyangffojjag/CS-Interview)
+- [알고리즘](https://github.com/mingry2/algorithm_practice)
+  <br>
+  <br>
+  <br>
+  <br>
+
+<div align="center">
+  
 # 📚 Tech Stack
 <h3>Back-end</h3>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
