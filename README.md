@@ -19,9 +19,6 @@
 - [개인프로젝트1 : 전국 병/의원 찾기](https://github.com/mingry2/hospital-information-api)
 - [개인프로젝트2 : Mustsa SNA](https://github.com/mingry2/MustsaSNS-API)
 - [팀프로젝트 : 댕냥뽀짝](https://github.com/mingry2/daengnyang-daily)
-### 🔔 2023.02.18 ~ 진행중    
-- [CS스터디](https://github.com/daengnyangffojjag/CS-Interview)
-- [알고리즘](https://github.com/mingry2/algorithm_practice)
   <br>
   <br>
   <br>
