@@ -8,10 +8,10 @@
 
 
 # 💪 It's me!    
-
+<a href="minry20415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minry20415@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>     
 <a href="https://gitlab.com/minry20415" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/></a>    
 <a href="https://min-gyeong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>    
-<a href="minry20415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minry20415@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>    
+   
 </div>
 
 ## Education
