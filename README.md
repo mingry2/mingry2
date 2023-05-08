@@ -13,7 +13,7 @@
    
 </div>
 
-## Education
+## Education.
 ### 🔔 2022.09.19 ~ 2023.02.17 멋쟁이사자처럼 백엔드 스쿨 2기 - **우수 수료생 선정**
 - [개인프로젝트1 : 전국 병/의원 찾기](https://github.com/mingry2/hospital-information-api)
 - [개인프로젝트2 : Mustsa SNA](https://github.com/mingry2/MustsaSNS-API)
