@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,2,3&height=150&section=header&text=welcom!&fontSize=80&animation=twinkling)
   <br>
   <br>  
-  <br>
-  <br>
 
 
 # 💪 It's me!    
