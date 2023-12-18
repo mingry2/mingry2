@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,2,3&height=150&section=header&text=welcom!&fontSize=80&animation=twinkling)
   <br>
   <br>
+    <br>
+  <br>
 
 # 💪 It's me!    
 <a href="minry20415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/minry20415@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>     
