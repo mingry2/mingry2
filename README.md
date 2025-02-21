@@ -19,4 +19,26 @@
 
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+
+<br>
+
+## 📗 License
+* 2024.12
+  * 정보 처리 기사
+* 2023.06
+  * 리눅스마스터 2급
+* 2023.07
+  * SQL 개발자(SQLD)
+
+<br>
+
+## 🏫 Education
+* 2022.09.19 ~ 2023.02.17
+  * 멋쟁이사자처럼 백엔드 스쿨 2기(온라인 / 5개월 과정) 수료
+  * 우수 수료생 선정
+
+<br>
+
+## 📑 State
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingry2&layout=compact)
