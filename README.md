@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me 🤟
 * E-mail : minry20415@gmail.com
-* Tech-Blog : https://min-gyeong.tistory.com/
+* Tech-Blog : https://minkyung-itblog.tistory.com/
 
 <br>
 
