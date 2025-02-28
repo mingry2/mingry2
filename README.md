@@ -6,7 +6,7 @@
 📚 작은 것 하나라도 기록하는 습관을 가지자!
 ```
 
-## 👩‍💻 About Me 🤟
+## 👩‍💻 About Me 🤟🤟
 * E-mail : minry20415@gmail.com
 * Tech-Blog : https://minkyung-itblog.tistory.com/
 
